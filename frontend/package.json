@@ -2,6 +2,7 @@
   "name": "cafe-finder-frontend",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://laosrb.github.io/SWE_Group_8/",
   "type": "module",
   "scripts": {
     "dev": "vite",
